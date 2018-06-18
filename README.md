@@ -1,7 +1,7 @@
 # Photo-G
 Sli5m photograpy
 <!doctype html>
-<html>
+<html>  
 <head>
     <meta charset="utf-8">
     <title>My Website</title>
